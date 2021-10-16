@@ -1,0 +1,51 @@
+.boton-compra{
+    margin-top: 50px;
+    display: table;
+    margin: 0 auto;
+    background-color: black;
+    border: none;
+    color: white;
+    width: 120px;
+    height: 30px;
+    margin: 2px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 14px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.ficha-body{
+    background-color:whitesmoke;
+    display: table;
+}
+.ficha-title{
+    margin-top: 10px;
+    font-family: Bitter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+}
+.ficha-text{
+    background-color:whitesmoke;
+}
+
+.ficha {
+    width: 164px;
+    height: 300px;
+    padding: 10px;
+    margin: 2px;
+    background-color: whitesmoke;
+    flex-wrap: wrap;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
